@@ -1,1 +1,2 @@
-# reflection_example
+# Golang reflection usage example
+Calling method by name.
